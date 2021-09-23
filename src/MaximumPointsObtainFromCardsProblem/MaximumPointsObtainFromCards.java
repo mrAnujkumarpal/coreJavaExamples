@@ -1,4 +1,4 @@
-package MaximumPointsObtainFromCards;
+package MaximumPointsObtainFromCardsProblem;
 
 public class MaximumPointsObtainFromCards {
 

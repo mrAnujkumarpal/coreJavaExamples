@@ -8,6 +8,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/CharCountOfString/CharCountInString.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/DuplicateCharProblem/RemoveDuplicateCharFromString.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/Faltu.java">
           <value>
             <set />
@@ -23,12 +33,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/HouseRobbProblem/RobbMaxAmount.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/ListBasedProblems/ListToArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/ListToArray.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/MaximumPointsObtainFromCards/MaximumPointsObtainFromCards.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/MaximumPointsObtainFromCardsProblem/MaximumPointsObtainFromCards.java">
           <value>
             <set />
           </value>
@@ -53,7 +78,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/ReverseStringBasedProblem/ReverseStringWordWise.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/ReverseStringWordWise.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/StraightSlopOfCoordinatesProblem/CheckStraightLineSlop.java">
           <value>
             <set />
           </value>

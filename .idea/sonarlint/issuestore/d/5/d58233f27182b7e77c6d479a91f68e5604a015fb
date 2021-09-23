@@ -1,13 +1,0 @@
-
-7
-java:S1643"Use a StringBuilder instead.(¬çËÊøÿÿÿÿ
-S	java:S106
-"9Replace this use of System.out or System.err by a logger.(×µ²ÿıÿÿÿÿ
-_
-java:S1858
-"D"s" is already a string, there's no need to call "toString()" on it.(×µ²ÿıÿÿÿÿ
-N
-java:S1197"8Move the array designator from the variable to the type.(€‚íÊ
-V	java:S125"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ë¦ÛÆøÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Ø¶Çÿÿÿÿÿ

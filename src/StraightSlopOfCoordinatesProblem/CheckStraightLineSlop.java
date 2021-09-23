@@ -1,6 +1,4 @@
-package ProbPratics;
-
-import java.util.Arrays;
+package StraightSlopOfCoordinatesProblem;
 
 public class CheckStraightLineSlop {
 

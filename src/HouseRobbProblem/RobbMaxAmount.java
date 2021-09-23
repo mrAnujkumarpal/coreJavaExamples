@@ -1,4 +1,4 @@
-package HouseRobb;
+package HouseRobbProblem;
 
 public class RobbMaxAmount {
 }
