@@ -21,6 +21,7 @@ public class MaximumPointsObtainFromCards {
         System.out.println(maxPointObtain(arr5, k5));
     }
 
+
     private static int maxPointObtain(int[] arr, int k) {
         int sum = 0;
         int LA[] = new int[k + 1];
