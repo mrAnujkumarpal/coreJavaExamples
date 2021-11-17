@@ -1,5 +1,7 @@
 package HouseRobbProblem;
 
+import javax.management.remote.rmi._RMIConnection_Stub;
+
 public class RobbMaxAmount {
 
     public static void main(String[] args) {
@@ -18,6 +20,13 @@ public class RobbMaxAmount {
         if (len == 0) return 0;
         if (len == 1) return arr[0];
         if (len == 2) return Math.max(arr[0], arr[1]);
+
+
+
+
+
+
+
         int lootBag[] = new int[len];
         if (len > 2) {
             lootBag[0] = arr[0];
