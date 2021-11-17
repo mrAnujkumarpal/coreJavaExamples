@@ -1,0 +1,13 @@
+
+=
+java:S1125"'Remove the unnecessary boolean literal.(›­
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+S	java:S106"9Replace this use of System.out or System.err by a logger.(×›†øÿÿÿÿ
+<
+java:S1125$"'Remove the unnecessary boolean literal.(Ò¾šK
+t
+java:S2142'"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(ĞªÅ©
+B
+java:S1125A"'Remove the unnecessary boolean literal.(‹îø”ûÿÿÿÿ

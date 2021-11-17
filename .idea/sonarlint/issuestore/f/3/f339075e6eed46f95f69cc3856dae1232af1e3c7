@@ -1,0 +1,15 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÆÍÔùûÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "sNum".(Œå©§þÿÿÿÿ
+S
+java:S1854"=Remove this useless assignment to local variable "secondMin".(Ú”Ûß
+<
+java:S1659"!Declare "sum" on a separate line.(ÂËÜüþÿÿÿÿ
+C	java:S108")Either remove or fill this block of code.(«‡þÖÿÿÿÿÿ
+D
+java:S1481")Remove this unused "sNum" local variable.(Œå©§þÿÿÿÿ
+D
+java:S1481".Remove this unused "secondMin" local variable.(Ú”Ûß
+D
+java:S1481")Remove this unused "temp" local variable.(ÂËÜüþÿÿÿÿ

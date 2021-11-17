@@ -1,0 +1,14 @@
+
+7
+java:S1643"Use a StringBuilder instead.(¬çËÊøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–Õ¨²øÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(×µ²ÿýÿÿÿÿ
+_
+java:S1858
+"D"s" is already a string, there's no need to call "toString()" on it.(×µ²ÿýÿÿÿÿ
+N
+java:S1197"8Move the array designator from the variable to the type.(€‚íÊ
+V	java:S125"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ë¦ÛÆøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(žØ¶Çÿÿÿÿÿ
